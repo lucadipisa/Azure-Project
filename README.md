@@ -36,3 +36,7 @@ Erreur lors du push :
 
 ![App Screenshot](https://i.postimg.cc/xTs0Ydz2/image.png)
 Pour la connexion, on va utiliser pyodb qui et bien installé
+
+Logs :
+![App Screenshot](https://i.postimg.cc/1Rk4gBRz/image.png)
+
